@@ -26,3 +26,7 @@ As someone interested in both technical depth and architectural thinking, this f
 The article reinforces my belief that while AI handles the mundane work, there's increasing value in **full-stack thinking** - understanding not just how to implement solutions, but how different components interact, what the tradeoffs are, and how technical decisions impact the broader system.
 
 This shift from heads-down coding to strategic technical leadership feels both inevitable and exciting. The T-shaped model provides a concrete framework for navigating this transition in the AI era.
+
+
+### Comment From Xiaohan Zhou
+One thing that I also find interesting is the emotional shift from being the person who executes a task to becoming someone who oversees and manages the system that performs it. As AI takes over more of the routine and creative work we used to do ourselves, we are being asked to let go of our attachment to specific tasks and instead find value in how well we guide, integrate, and adapt these tools. This shift challenges how we define our professional identity and requires a new kind of self-awareness and flexibility. It’s not just about learning new skills, but about changing how we see our role in the work we do.
